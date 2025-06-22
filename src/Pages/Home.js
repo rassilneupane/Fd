@@ -22,7 +22,7 @@ const Home = () => {
       </div>
 
     </div>
-    <p> Made by Rassil Neupane</p>
+    <p className="made"> Made by Rassil Neupane</p>
     
     
     </Layout>
