@@ -12,6 +12,7 @@ const Home = () => {
       <div className='headerContainer'>
         <h1>Welcome to Our Restaurant</h1>
         <p>Best Food in Nepal with both veg and non-veg tasty menu</p>
+        
         <Link to= '/menu'>
         <button >
           Order Now 
@@ -21,6 +22,7 @@ const Home = () => {
       </div>
 
     </div>
+    <p> Made by Rassil Neupane</p>
     
     
     </Layout>
